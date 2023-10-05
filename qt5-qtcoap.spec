@@ -8,12 +8,12 @@
 Summary:	The Qt5 Coap library
 Summary(pl.UTF-8):	Biblioteka Qt5 Coap
 Name:		qt5-%{orgname}
-Version:	5.15.10
+Version:	5.15.11
 Release:	1
 License:	GPL v3+ or commercial
 Group:		Libraries
 Source0:	https://download.qt.io/official_releases/qt/5.15/%{version}/submodules/%{orgname}-everywhere-opensource-src-%{version}.tar.xz
-# Source0-md5:	cddb95b9e68409d5c3f93181812feb7e
+# Source0-md5:	fcb84eb1c225c195c51af30ffda10998
 URL:		https://www.qt.io/
 BuildRequires:	Qt5Core-devel >= %{qtbase_ver}
 BuildRequires:	Qt5Network-devel >= %{qtbase_ver}
